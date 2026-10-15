@@ -84,8 +84,7 @@ The API will run locally at:
 
 FastAPI automatically generates interactive documentation.
 
-- **Swagger UI:** http://127.0.0.1:8000/docs
-- **ReDoc:** http://127.0.0.1:8000/redoc
+
 
 Use Swagger UI to send requests and inspect API responses.
 
@@ -173,7 +172,7 @@ Examples of validation rules:
 **Rakesh Verma**
 
 - GitHub: [@hey-rakesh](https://github.com/hey-rakesh)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/rakesh2026/)
+
 
 ---
 
