@@ -1,4 +1,4 @@
-# 🎓 FastAPI Student Management API
+s# 🎓 FastAPI Student Management API
 
 A beginner-friendly Student Management REST API built with **FastAPI, Python, and Pydantic**. This project focuses on request validation, CRUD operations, HTTP exception handling, and building structured backend APIs.
 
@@ -165,7 +165,7 @@ Examples of validation rules:
 - Add automated tests using Pytest
 - Implement authentication and authorization
 - Improve error handling and response schemas
-- Deploy the API to a cloud platform
+- Deploy the API to a cloud platforms
 
 ## 👨‍💻 Author
 
