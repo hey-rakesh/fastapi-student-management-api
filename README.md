@@ -133,7 +133,7 @@ The exact response depends on your implementation.
 Pydantic validates incoming data according to the defined model.
 
 Examples of validation rules:
-- Required fields must be provided.
+- Required field must be provided.
 - Fields must have the expected data types.
 - Custom constraints can restrict values.
 - Invalid request data produces a validation error.
