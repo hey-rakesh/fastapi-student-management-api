@@ -36,7 +36,7 @@ fastapi-student-management/
 
 **File descriptions:**
 - `main.py` — FastAPI application and API routes.
-- `schema.py` — Pydantic models and validation rules.
+- `schema.py` — Pydantic model and validation rules.
 - `model_services.py` — Student management logic and duplicate ID checking.
 - `requirements.txt` — Python dependencies.
 - `README.md` — Project documentation.
